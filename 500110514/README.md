@@ -14,3 +14,12 @@ Throughout the course of this lab I have understood the following concepts:
    • git add: We will add all the changes using this command.
    • git commit: We will commit our changes to the local repo and can pass a message for the commit.
    • git push: We will push the changes on our local repo to remote repo.
+
+2. Lab Content:
+   All the lab work done until now:
+   Basic Git Commands (init, clone, add, commit, pull, push, revert, reset, rebase, merge): https://github.com/ShriRadhey-Mishra/Lab-2
+   Git Submodules: Repo1: https://github.com/ShriRadhey-Mishra/Repo1 (Also added to github pages: https://shriradhey-mishra.github.io/Repo1/
+   https://shriradhey-mishra.github.io/Repo1/MAIN)
+   Repo2: https://github.com/ShriRadhey-Mishra/Repo2
+   Repo3: https://github.com/ShriRadhey-Mishra/Repo3
+   GitHub Pages: https://github.com/ShriRadhey-Mishra/ShriRadhey-Mishra.github.io (Added to github pages: https://shriradhey-mishra.github.io/)
