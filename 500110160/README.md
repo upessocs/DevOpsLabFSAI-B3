@@ -23,6 +23,11 @@ https://darth-divyansh.github.io/Repo1/MAIN/ [Live Page]
 
 ## DevOps Lab4
 
-Learned the basics of SVN.
+Learned the basics of SVN where we created a local svn server and created an admin and users, using which we used some basic SVN commands.
+
+https://github.com/darth-divyansh/devops-lab4 [ Added the Screenshots ]
+
+It worked till creating trunk and started giving ERRORs when I tried to create a feature-branch.
+
 
 
